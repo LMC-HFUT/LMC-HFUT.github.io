@@ -257,9 +257,10 @@
  	font-weight: normal;
  }
 
+
  .w {
- 	width: 80%;
-  max-width: 1270px;
+ 	width: 90%;
+  max-width: 2570px;
  	margin: 0px auto;
  	clear: both;
  }

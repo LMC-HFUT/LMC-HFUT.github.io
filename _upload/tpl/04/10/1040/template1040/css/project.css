@@ -111,7 +111,7 @@
 }
 
 .banner {
-	margin-top: 20px;
+	margin-top: 10px;
 }
 
 
@@ -132,7 +132,7 @@
 	background: url(../img/icon/title_bg.png) right no-repeat;
 	background-size: cover;
 	line-height: 60px;
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 }
 
 .index_title .name {
@@ -154,6 +154,9 @@
 	color: #666666;
 	font-size: 1rem;
 }
+.tempWrap{
+	height: 412px !important;
+ }
 
 .index_title .more a:hover {
 	color: #0286c7;
@@ -184,7 +187,7 @@
 }
 
 .index_box .left .hot {
-	width: 340px;
+	width: 540px;
 	position: relative;
 }
 
@@ -237,7 +240,7 @@
 }
 
 .index_box .left .list ul li {
-	margin-bottom: 16px;
+	margin-bottom: 14px;
 }
 
 .index_box .left .list ul li:last-child {
@@ -250,8 +253,8 @@
 
 .index_box .left .list ul li .time {
 	color: #666666;
-	font-size: 0.875rem;
-	width: 80px;
+	font-size: large;
+	width: 150px;
 }
 
 .index_box .left .list ul li .text {
@@ -329,12 +332,12 @@
 }
 
 .index_box2 {
-	margin-top: 30px;
+	margin-top: 40px;
 }
 
 .index_box2 ul li {
 	background-color: #ececec;
-	width: 48%;
+	width: 49%;
 	margin-right: 2%;
 }
 
@@ -351,7 +354,7 @@
 	background-color: #1f43a3;
 	color: #FFFFFF;
 	text-align: center;
-	width: 70px;
+	width: 80px;
 	height: 60px;
 }
 
@@ -397,11 +400,12 @@
 .index_box3 {
 	background-color: #ececec;
 	padding: 30px 0;
-	margin-top: 30px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
 .index_box3 .left {
-	width: 65%;
+	width: 49%;
 	display: flex;
 }
 
@@ -465,7 +469,7 @@
 }
 
 .index_box3 .right {
-	width: 33%;
+	width: 49%;
 }
 
 .index_box3 .right .title {
